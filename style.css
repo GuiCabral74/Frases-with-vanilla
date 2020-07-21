@@ -1,0 +1,13 @@
+#main {
+    background: rgb(226, 70, 187);
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.campo {
+    text-align: center;
+    line-height: 100px;
+}
+
